@@ -1,2 +1,3 @@
 *.log
+*.orig
 #any files like application.log with log extension
